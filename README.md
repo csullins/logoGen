@@ -1,18 +1,36 @@
-AS a freelance web developer
-I WANT to generate a simple logo for my projects
-SO THAT I don't have to pay a graphic designer
+# LogoGen
+     This application takes user input to generate a simple SVG logo.
+  
+  ## 📘 Table of contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributors](#contributors)
+  - [Tests](#tests)
+  - [Demo](#demo)
+  - [Questions](#questions)
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for text
-THEN I can enter up to three characters
-WHEN I am prompted for the text color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I am prompted for a shape
-THEN I am presented with a list of shapes to choose from: circle, triangle, and square
-WHEN I am prompted for the shape's color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I have entered input for all the prompts
-THEN an SVG file is created named `logo.svg`
-AND the output text "Generated logo.svg" is printed in the command line
-WHEN I open the `logo.svg` file in a browser
-THEN I am shown a 300x200 pixel image that matches the criteria I entered
+  ## Installation 
+  
+  🔧 To install, simply clone the LogoGen repository, install Node, and run node index.js from an integrated terminal.
+  
+  ## Usage 
+
+  💡 This app could be useful for anyone looking to add a quick and simple icon or logo to their a project.
+
+  ## License
+  
+  🔓 No license used.
+
+  ## Contributors
+  
+  🏆 This application was made with the help of MDN docs on SVG, the JESTjs.io documentation, and class notes/activites.
+  
+  ## Tests 
+
+  🔬 A module titled 'shapes.test.js' was created to validate that the shape parameter is executing successfully. Enter 'npm test' in terminal to run this test.
+
+  ## Questions❓
+
+  * Visit my Github repo at https://www.github.com/csullins
+  
