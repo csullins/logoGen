@@ -13,7 +13,7 @@
   ## Installation 
   
   🔧 To install, clone the LogoGen repository, install Node and Express. 
-  Run 'node server.js' from an integrated terminal to start the server. This is required to view the SVG file from a browser.
+  Run 'node server.js' from an integrated terminal to start the server.
 
   Don't forget to terminate the server once finished.
   
