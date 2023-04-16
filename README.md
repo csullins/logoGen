@@ -34,7 +34,7 @@
   🔬 A module titled 'shapes.test.js' was created to validate that the shape parameter is executing successfully. Enter 'npm test' in terminal to run this test.
 
   ## Demo
-  ![demo](/demo.gif)
+  ![demo](/Demo.webm)
 
    Link to video in Drive: https://drive.google.com/file/d/1W7eNoJB-2EuEZtjmpJsBAD45iLIHCSVS/view
 
