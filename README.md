@@ -12,7 +12,10 @@
 
   ## Installation 
   
-  🔧 To install, simply clone the LogoGen repository, install Node, and run node index.js from an integrated terminal.
+  🔧 To install, clone the LogoGen repository, install Node and Express. 
+  Run 'node server.js' from an integrated terminal to start the server. This is required to view the SVG file from a browser.
+
+  Don't forget to terminate the server once finished.
   
   ## Usage 
 
@@ -29,6 +32,11 @@
   ## Tests 
 
   🔬 A module titled 'shapes.test.js' was created to validate that the shape parameter is executing successfully. Enter 'npm test' in terminal to run this test.
+
+  ## Demo
+  ![demo](./assets/demo.gif)
+
+   Link to video in Drive:
 
   ## Questions❓
 
